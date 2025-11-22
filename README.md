@@ -136,7 +136,8 @@ TARGET_SIZE = (128, 128) # Image resize dimensions
 
 The segmentation model is a 2D U-Net implemented using MONAI. U-Net is a convolutional neural network designed for biomedical image segmentation that uses skip connections to combine low-level and high-level features.
 
-![U-Net](/workspaces/Brain-Tumor-Segmentation-and-Diagnosis-using-MRI/Images/u-net-architecture.png)
+![U-Net Architecture](./Images/u-net-architecture.png)
+
 
 
 ### Architecture Details
